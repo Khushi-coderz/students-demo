@@ -2,6 +2,6 @@
 this is rough repo
 author rupali kashyap
 <br>
-this is god repp
+this is good repo
 
 
